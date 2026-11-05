@@ -1,0 +1,26 @@
+---
+title: "Zeineb Esseghaier"
+subtitle: "Étudiante en BUT Informatique – Parcours AGED (Administration, Gestion et Exploitation des Données)"
+---
+
+## À propos
+
+Je suis étudiante en 2e année de BUT Informatique, parcours Administration, Gestion et Exploitation des Données, à l'IUT Paul-Sabatier de Toulouse.
+
+Je recherche un **stage de 10 semaines à partir du 5 avril 2027** en Business Intelligence et analyse de données.
+
+## Compétences
+
+- **Données** : SQL, PL/SQL, Oracle, Oracle APEX, modélisation MCD/MLD
+- **Programmation** : Java, Python, PHP, Kotlin, C, Shell
+- **Web** : HTML, CSS, JavaScript, Markdown, Quarto
+- **Outils** : Git, GitHub, GitLab, Eclipse, Jupyter
+
+## Langues
+
+Arabe et français (bilingue) · Anglais · Italien
+
+## Contact
+
+- E-mail : [zeinebesseghaier@gmail.com](mailto:zeinebesseghaier@gmail.com)
+- GitHub : [github.com/zeinebesseghaier](https://github.com/zeinebesseghaier)
