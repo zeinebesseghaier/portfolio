@@ -1,0 +1,39 @@
+---
+title: "Mes projets"
+---
+
+## Web doc « Deux Cultures, Deux Ambiances »
+
+**HTML · CSS · JavaScript** — 2025-2026, en binôme
+
+Web doc interactif sur le café en Tunisie et en France : rituel ou habitude ? Vidéos d'ambiance, ambiance sonore, témoignages et fiches boissons cliquables, avec nos propres interviews et photos.
+
+[Voir le site](https://zeinebesseghaier.github.io/webdoc-cafe-tunisie-france/Page1.html) · [Voir le code](https://github.com/zeinebesseghaier/webdoc-cafe-tunisie-france)
+
+## Application de vente pour une fromagerie
+
+**Java · WindowBuilder · UML** — 2025-2026, en binôme
+
+Application de bureau pour gérer les produits, les commandes, le panier et la livraison, avec génération des factures en PDF.
+
+[Voir le code](https://github.com/zeinebesseghaier/application-fromagerie-java)
+
+## Analyse de l'utilisation des réseaux sociaux par les étudiants
+
+**SQL · Oracle APEX** — 2025-2026, en binôme
+
+Application web avec tableaux de bord et KPI pour analyser le lien entre réseaux sociaux, sommeil et résultats académiques, à partir de données Kaggle et IUT.
+
+## Application de gestion locative
+
+**Java · SQL · PL/SQL · GitLab · SCRUM** — 2026-2027, en équipe de 5
+
+Conception de la base de données (MCD/MLD) et développement d'une application Java (MVC/DAO) pour gérer 20 logements : locataires, baux, charges, factures et documents.
+
+## Ce portfolio
+
+**Quarto · GitHub Actions**
+
+Site créé avec Quarto et publié automatiquement par une chaîne d'intégration et de déploiement continus.
+
+[Voir le code](https://github.com/zeinebesseghaier/portfolio)
