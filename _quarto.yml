@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Zeineb Esseghaier"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: projets.qmd
+        text: Projets
+
+format:
+  html:
+    theme: cosmo
+    lang: fr
