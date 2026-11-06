@@ -1,5 +1,8 @@
 ---
 title: "Mes projets"
+date: last-modified
+date-format: "D MMMM YYYY"
+title-block-published: "Dernière mise à jour"
 ---
 
 ## Projets universitaires
@@ -8,17 +11,21 @@ title: "Mes projets"
 
 ### Application de gestion locative
 
-**Java · SQL · PL/SQL · WindowBuilder · GitLab · SCRUM** · 2026-2027 · en équipe de 5
+**Java · SQL · PL/SQL · WindowBuilder · GitLab · SCRUM** · 2026-2027 · en équipe de 5 · *en cours*
 
 Conception de la base de données (MCD/MLD) et développement d'une application Java (MVC/DAO) pour gérer 20 logements : locataires, baux, charges, factures, assurances et documents. Calculs et traitements automatisés en SQL et PL/SQL.
 
-<!-- Lien à ajouter -->
+**Mon rôle :** développement de l'interface graphique et des couches DAO selon l'architecture MVC, organisation du projet et gestion du dépôt GitLab de l'équipe.
+
+*Code hébergé sur le GitLab privé de l'IUT.*
 
 ### Web doc « Deux Cultures, Deux Ambiances »
 
 **HTML · CSS · JavaScript** · 2025-2026 · en binôme
 
 Web doc interactif sur le café en Tunisie et en France : rituel ou habitude ? Vidéos d'ambiance, ambiance sonore, témoignages et fiches boissons cliquables, avec nos propres interviews et photos.
+
+**Mon rôle :** idée du projet, conception et développement du site, photos, tournage et montage vidéo.
 
 [Voir le site](https://zeinebesseghaier.github.io/webdoc-cafe-tunisie-france/Page1.html) · [Voir le code](https://github.com/zeinebesseghaier/webdoc-cafe-tunisie-france)
 
@@ -28,6 +35,8 @@ Web doc interactif sur le café en Tunisie et en France : rituel ou habitude ? V
 
 Application de bureau pour gérer les produits, les commandes, le panier et la livraison, avec calcul des frais de transport et génération des factures en PDF.
 
+**Mon rôle :** développement de l'interface graphique, du filtrage des produits et de la gestion des événements, ainsi que de la plupart des fonctionnalités (hors panier et gestion des stocks).
+
 [Voir le code](https://github.com/zeinebesseghaier/application-fromagerie-java)
 
 ### Exploitation d'une base de données sous Oracle APEX (SAE 2.04)
@@ -35,6 +44,8 @@ Application de bureau pour gérer les produits, les commandes, le panier et la l
 **SQL · Oracle APEX · Excel · Statistiques** · 2025-2026 · en binôme
 
 Structuration d'une base de données à partir d'un cahier des charges, intégration et nettoyage de données hétérogènes (Kaggle et IUT), puis création de tableaux de bord et de KPI pour analyser le lien entre réseaux sociaux, sommeil et résultats académiques.
+
+**Mon rôle :** création de la base de données et de toute l'application APEX : interface, tableaux de bord et graphiques.
 
 <!-- Lien à ajouter -->
 
@@ -44,6 +55,8 @@ Structuration d'une base de données à partir d'un cahier des charges, intégra
 
 Installation complète d'un poste de travail et déploiement d'un espace de stockage partagé OwnCloud pour l'IUT. Sécurisation du serveur : HTTPS avec certificat OpenSSL, protection contre les attaques par force brute avec Fail2ban, authentification SSH par clé.
 
+**Mon rôle :** installation et configuration de la partie serveur.
+
 <!-- Lien à ajouter -->
 
 ### Exploration algorithmique : graphes et connexité (SAE 2.02)
@@ -51,6 +64,8 @@ Installation complète d'un poste de travail et déploiement d'un espace de stoc
 **Python · NetworkX · Matplotlib** · 2025-2026 · en groupe de 4
 
 Implémentation et comparaison d'algorithmes de plus courts chemins, et recherche d'un seuil de forte connexité sur des graphes générés aléatoirement. Rédaction d'un dossier technique de 15 pages.
+
+**Mon rôle :** écriture du code Python pour résoudre les problématiques du sujet.
 
 <!-- Lien à ajouter -->
 
@@ -60,6 +75,8 @@ Implémentation et comparaison d'algorithmes de plus courts chemins, et recherch
 
 Gestion complète d'un projet pour les organisateurs d'un congrès : cahier des charges, étude économique et budget, planning PERT et maquette du site web.
 
+**Mon rôle :** conception de la maquette du site, gestion de projet et calculs du budget.
+
 <!-- Lien à ajouter -->
 
 ### Organisation d'un concours de webdocumentaires (SAE 2.06)
@@ -68,13 +85,17 @@ Gestion complète d'un projet pour les organisateurs d'un congrès : cahier des 
 
 Organisation d'un concours de webdocs pour le département informatique, dans le rôle d'une société événementielle : rapport d'organisation, affiche du concours et maquette de la page de vote.
 
-<!-- Lien à ajouter -->
+**Mon rôle :** conception de la maquette du site sur Figma.
+
+[Voir la maquette Figma](https://www.figma.com/site/8TIkjUuWFXhzXGVc2jISUW/Maquette-%E2%80%93-Concours-de-webdocumentaires--SAE-2.06-?node-id=0-1)
 
 ### Implémentation d'un besoin client en Kotlin (SAE 1.01)
 
 **Kotlin · Git · GitHub · JUnit 5** · 2025-2026 · en binôme
 
 Développement d'une bibliothèque Kotlin pour l'IUT, avec tests unitaires automatisés et travail collaboratif sur GitHub.
+
+**Mon rôle :** développement et tests d'une moitié des fonctions, avec répartition à parts égales du code.
 
 <!-- Lien à ajouter -->
 
