@@ -39,7 +39,7 @@ Application de bureau pour gérer les produits, les commandes, le panier et la l
 
 [Voir le code](https://github.com/zeinebesseghaier/application-fromagerie-java)
 
-### Exploitation d'une base de données sous Oracle APEX (SAE 2.04)
+### Exploitation d'une base de données sous Oracle APEX
 
 **SQL · Oracle APEX · Excel · Statistiques** · 2025-2026 · en binôme
 
@@ -49,7 +49,7 @@ Structuration d'une base de données à partir d'un cahier des charges, intégra
 
 <!-- Lien à ajouter -->
 
-### Installation d'un espace de stockage partagé (SAE 2.03)
+### Installation d'un espace de stockage partagé
 
 **Linux · Apache · PHP · MySQL · OwnCloud · VirtualBox** · 2025-2026 · en groupe de 3
 
@@ -59,7 +59,7 @@ Installation complète d'un poste de travail et déploiement d'un espace de stoc
 
 <!-- Lien à ajouter -->
 
-### Exploration algorithmique : graphes et connexité (SAE 2.02)
+### Exploration algorithmique : graphes et connexité
 
 **Python · NetworkX · Matplotlib** · 2025-2026 · en groupe de 4
 
@@ -69,7 +69,7 @@ Implémentation et comparaison d'algorithmes de plus courts chemins, et recherch
 
 <!-- Lien à ajouter -->
 
-### Gestion de projet : Congrès SIF (SAE 2.05)
+### Gestion de projet : Congrès SIF
 
 **Gestion de projet · Figma · Canva** · 2025-2026 · en groupe de 3
 
@@ -79,7 +79,7 @@ Gestion complète d'un projet pour les organisateurs d'un congrès : cahier des 
 
 <!-- Lien à ajouter -->
 
-### Organisation d'un concours de webdocumentaires (SAE 2.06)
+### Organisation d'un concours de webdocumentaires
 
 **Figma · Canva · Gestion de projet** · 2025-2026 · en groupe de 3
 
@@ -89,13 +89,49 @@ Organisation d'un concours de webdocs pour le département informatique, dans le
 
 [Voir la maquette Figma](https://www.figma.com/site/8TIkjUuWFXhzXGVc2jISUW/Maquette-%E2%80%93-Concours-de-webdocumentaires--SAE-2.06-?node-id=0-1)
 
-### Implémentation d'un besoin client en Kotlin (SAE 1.01)
+### Bibliothèque d'analyse de textes « Des mots et des textes »
 
 **Kotlin · Git · GitHub · JUnit 5** · 2025-2026 · en binôme
 
-Développement d'une bibliothèque Kotlin pour l'IUT, avec tests unitaires automatisés et travail collaboratif sur GitHub.
+Développement de PedagoTextometrie, une bibliothèque Kotlin de statistique textuelle pour analyser les textes des étudiants de l'IUT : nombre de caractères, de mots et de phrases (déclaratives, exclamatives, interrogatives), longueurs moyennes, mots les plus longs et les plus courts, richesse du vocabulaire, et application cliente. Contraintes : sans fonctions toutes faites sur les chaînes ni bibliothèque de statistiques, avec tests automatisés, revue de code et pull requests sur GitHub.
 
-**Mon rôle :** développement et tests d'une moitié des fonctions, avec répartition à parts égales du code.
+**Mon rôle :** développement et tests de la moitié des fonctions, avec une répartition équitable du travail en binôme.
+
+<!-- Lien à ajouter -->
+
+### Comparaison d'approches algorithmiques : tables de hachage
+
+**Kotlin · Notebook · Git · GitHub** · 2025-2026 · en binôme
+
+Implémentation de mes propres tables de hachage (Hash Maps) en Kotlin, sans les types de la bibliothèque standard : fonctions de compression et de hachage, gestion des collisions, clés entières puis textuelles. Comparaison des performances des différentes approches et interprétation des résultats dans un notebook.
+
+<!-- Lien à ajouter -->
+
+### Installation et configuration d'un poste de travail
+
+**Linux Debian · VirtualBox · Python · Java · SQL Developer** · 2025-2026
+
+Installation de machines virtuelles Linux Debian à partir d'une image ISO, avec partitionnement et environnement graphique, gestion des utilisateurs, des groupes et des droits, puis installation des outils d'un développeur (VS Code, plusieurs versions du JDK, Oracle SQL Developer, compilation d'un logiciel depuis son code source). Rédaction d'un rapport de procédures illustré.
+
+<!-- Lien à ajouter -->
+
+### Analyse du système d'information d'un club de tennis
+
+**Veille documentaire · Analyse de l'existant · Maquette web** · 2025-2026 · en équipe
+
+Pour le club de tennis « Ballobond » : veille sur les sites et applications de gestion de tournois, interview des utilisateurs pour décrire le fonctionnement actuel et ses problèmes, puis proposition d'améliorations avec la maquette d'un site web.
+
+**Mon rôle :** veille documentaire, conduite de l'interview et conception de la maquette du site web.
+
+<!-- Lien à ajouter -->
+
+### Conception de la base de données d'un club de tennis
+
+**Merise · Looping · Access · SQL** · 2025-2026 · en équipe
+
+Recueil des besoins du club « Ballobond » et conception complète de sa base de données : modèle organisationnel des flux, dictionnaire des données, modèle conceptuel (MCD) sous Looping, modèle logique, création de la base sous Access, jeu d'essai et plus de 10 requêtes SQL portant chacune sur au moins 3 tables.
+
+**Mon rôle :** création de la base de données sous Access et écriture des requêtes SQL.
 
 <!-- Lien à ajouter -->
 
